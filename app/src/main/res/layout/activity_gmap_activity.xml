@@ -1,0 +1,8 @@
+<fragment android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    tools:context=".Gmap_activity"
+    android:id="@+id/map1"
+    tools:layout="@layout/activity_gmap_activity" />

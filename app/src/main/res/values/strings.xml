@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Map_activity</string>
+    <string name="title_activity_gmap_activity">Map</string>
+    <string name="title_activity_street_view">Map</string>
+    <string name="key">pk.eyJ1Ijoic2hla2hhcnN1bWFuIiwiYSI6ImNqNG5tdWM3djF1bHUzMm83MWI5Z2h6cHAifQ.x6A7zYo943x0VC9J7vf_OA</string>
+</resources>
